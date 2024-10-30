@@ -1,0 +1,249 @@
+{
+  "usersData": [
+    {
+      "name": "Abhi ",
+      "place": "payyanur",
+      "district": "kannur",
+      "job": "Driver",
+      "phone": "8965231478",
+      "username": "Abhi",
+      "password": "Abhi@123",
+      "id": 1
+    },
+    {
+      "name": "Raju",
+      "place": "Nileshawar",
+      "district": "kasaragod",
+      "job": "",
+      "phone": "7852365485",
+      "username": "Raju",
+      "password": "Raju@123",
+      "id": 2
+    },
+    {
+      "name": "Sanju",
+      "place": "Kochi",
+      "district": "Ernakulam",
+      "job": "Construction",
+      "phone": "7854236589",
+      "username": "Sanju",
+      "password": "Sanju@123",
+      "id": 3
+    },
+    {
+      "name": "Rajesh",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "job": "Painter",
+      "phone": "7856321458",
+      "username": "Rajesh",
+      "password": "Rajesh@123",
+      "id": 4
+    },
+    {
+      "name": "Akhil",
+      "place": "kannur",
+      "district": "kannur",
+      "job": "",
+      "phone": "123456789",
+      "username": "Akhil",
+      "password": "Akhil123",
+      "id": 5
+    },
+    {
+      "name": "Jishna M",
+      "place": "kannur",
+      "district": "Idukki",
+      "job": "",
+      "phone": "09526621069",
+      "username": "max@gmail.com",
+      "password": "jishu123",
+      "id": 6
+    }
+  ],
+  "postDetails": [
+    {
+      "username": "Abhi",
+      "title": "Cleaning Work",
+      "discription": "Need a Cleaning worker for cleaning my house.Its just one day work",
+      "date": "2024-08-28",
+      "place": "Payyanur",
+      "district": "kannur",
+      "wage": "600",
+      "id": 1
+    },
+    {
+      "username": "Raju",
+      "title": "Painting Work",
+      "discription": "Need a painter for painting my out house...its just 2 day job and the wage is negotiable",
+      "date": "2024-08-30",
+      "place": "Nileshwar",
+      "district": "kasaragod",
+      "wage": "2500",
+      "id": 3
+    },
+    {
+      "username": "Raju",
+      "title": "Need a Driver",
+      "description": "",
+      "date": "2024-08-26",
+      "place": "Nileshawar",
+      "district": "kasaragod",
+      "wage": "1000",
+      "discription": "Need a driver for my car.. its just for my family one day trip...",
+      "id": 4
+    },
+    {
+      "username": "Sanju",
+      "title": "Need a Tree cutting person",
+      "discription": "Need a person for cutting a tree in my plote...the price is negotiable",
+      "date": "2024-08-27",
+      "place": "Kochi",
+      "district": "Ernakulam",
+      "wage": "2000",
+      "id": 5
+    },
+    {
+      "username": "Rajesh",
+      "title": "Need a person for cleaning my water tank",
+      "discription": "need a person for cleaning my water tank... its just a 2-3hr work",
+      "date": "2024-08-28",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "wage": "1200",
+      "id": 7
+    },
+    {
+      "username": "Abhi",
+      "title": "Need Driver",
+      "discription": "Need a driver for one day",
+      "date": "2024-08-29",
+      "place": "kannur",
+      "district": "kannur",
+      "wage": "600",
+      "id": 8
+    }
+  ],
+  "notifications": [
+    {
+      "fromUser": "Rajesh",
+      "toUser": "Abhi",
+      "postid": 1,
+      "message": "Rajesh has share their contact details for your job post.(job title:Cleaning Work)",
+      "phone": "7856321458",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "id": 1
+    },
+    {
+      "fromUser": "Rajesh",
+      "toUser": "Abhi",
+      "postid": 2,
+      "message": "Rajesh has share their contact details for your job post.(job title:Painting Work)",
+      "phone": "7856321458",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "id": 2
+    },
+    {
+      "fromUser": "Rajesh",
+      "toUser": "Raju",
+      "postid": 3,
+      "message": "Rajesh has share their contact details for your job post.(job title:Painting Work)",
+      "phone": "7856321458",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "id": 3
+    },
+    {
+      "fromUser": "Rajesh",
+      "toUser": "Raju",
+      "postid": 4,
+      "message": "Rajesh has share their contact details for your job post.(job title:Need a Driver)",
+      "phone": "7856321458",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "id": 4
+    },
+    {
+      "fromUser": "Rajesh",
+      "toUser": "Sanju",
+      "postid": 6,
+      "message": "Rajesh has share their contact details for your job post.(job title:need a coconut picker)",
+      "phone": "7856321458",
+      "place": "Kakkanad",
+      "district": "Ernakulam",
+      "id": 5
+    },
+    {
+      "fromUser": "Abhi",
+      "toUser": "Raju",
+      "postid": 3,
+      "message": "Abhi has share their contact details for your job post.(job title:Painting Work)",
+      "phone": "8965231478",
+      "place": "payyanur",
+      "district": "kannur",
+      "id": 6
+    },
+    {
+      "fromUser": "Abhi",
+      "toUser": "Raju",
+      "postid": 4,
+      "message": "Abhi has share their contact details for your job post.(job title:Need a Driver)",
+      "phone": "8965231478",
+      "place": "payyanur",
+      "district": "kannur",
+      "id": 7
+    },
+    {
+      "fromUser": "Abhi",
+      "toUser": "Sanju",
+      "postid": 5,
+      "message": "Abhi has share their contact details for your job post.(job title:Need a Tree cutting person)",
+      "phone": "8965231478",
+      "place": "payyanur",
+      "district": "kannur",
+      "id": 8
+    },
+    {
+      "fromUser": "Abhi",
+      "toUser": "Sanju",
+      "postid": 6,
+      "message": "Abhi has share their contact details for your job post.(job title:need a coconut picker)",
+      "phone": "8965231478",
+      "place": "payyanur",
+      "district": "kannur",
+      "id": 9
+    },
+    {
+      "fromUser": "Abhi",
+      "toUser": "Rajesh",
+      "postid": 7,
+      "message": "Abhi has share their contact details for your job post.(job title:Need a person for cleaning my water tank)",
+      "phone": "8965231478",
+      "place": "payyanur",
+      "district": "kannur",
+      "id": 10
+    },
+    {
+      "fromUser": "Akhil",
+      "toUser": "Abhi",
+      "postid": 1,
+      "message": "Akhil has share their contact details for your job post.(job title:Cleaning Work)",
+      "phone": "123456789",
+      "place": "kannur",
+      "district": "kannur",
+      "id": 11
+    },
+    {
+      "fromUser": "max@gmail.com",
+      "toUser": "Abhi",
+      "postid": 1,
+      "message": "Jishna M has share their contact details for your job post.(job title:Cleaning Work)",
+      "phone": "09526621069",
+      "place": "kannur",
+      "district": "Idukki",
+      "id": 12
+    }
+  ]
+}
